@@ -1,5 +1,7 @@
 # Como criar senha segura e copiar pra ára de transferência
 
+### No canto superior direito desta tela, deixe uma estrela no projeto. Obrigado!
+
 ## Código do vídeo do youtube 
 - https://youtube.com/shorts/nCBmD2SnIxA
 
